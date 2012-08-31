@@ -1,0 +1,4 @@
+softasserts
+===========
+
+Softasserts for TestNG
