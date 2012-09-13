@@ -4,7 +4,7 @@ import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 @Listeners({ se.elva.test.SoftTestListener.class })
-public class softAssertTest extends SoftTestBase {
+public class softAssertDemoTestWillFail extends SoftTestBase {
 
 	@Test
 	public void test1() {

@@ -36,6 +36,9 @@
               <value>listenReport.Reporter</value>
             </property>
           </properties>
+		    <excludes>
+            <exclude>**/SoftAssertDemoTestWillFail.java</exclude>
+          </excludes>
         </configuration>
       </plugin>
 	  
